@@ -1,0 +1,4 @@
+Conteúdos da aula 13
+Arquivo Aula013.rb - #Conteúdo = Vetores / Arrays
+Arquivo Aula013.1.rb - #Conteúdo = ARGV - Argument Vector (Aparentemente serve pra scripts)
+Arquivo Aula013.2.rb - #Conteúdo = Hashes (Dicionário)

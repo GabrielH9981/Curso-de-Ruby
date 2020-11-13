@@ -1,0 +1,3 @@
+Conteúdos da aula 12
+Arquivo Aula012.rb - #Conteúdo = gets, puts, \n, chomp
+Arquivo Aula012.1.rb - #Conteúdo = Condicionais - If, Unless, Case e Estruturas de Repetição

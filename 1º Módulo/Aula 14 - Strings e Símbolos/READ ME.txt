@@ -1,0 +1,2 @@
+Conteúdos da aula 14
+Arquivo Aula014.rb - #Conteúdo = Interpolação, Cocatenação e Substituição de Strings e Símbolos

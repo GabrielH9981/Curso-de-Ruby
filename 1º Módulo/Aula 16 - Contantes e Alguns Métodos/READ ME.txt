@@ -1,0 +1,6 @@
+Conteúdos da aula 16
+Arquivo Aula016.rb - #Conteúdo = Constantes
+Arquivo Aula016.1.rb - #Conteúdo = Método split e join
+Arquivo Aula016.2.rb - #Conteúdo = Método Eval
+Arquivo Aula016.3.rb - #Conteúdo = Método Instance Of
+Arquivo Aula016.4.rb - #Conteúdo = Ranges e intervalos

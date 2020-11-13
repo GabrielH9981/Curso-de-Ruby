@@ -1,0 +1,5 @@
+Conteúdos da aula 15
+Arquivo Aula015.rb - #Conteúdo = Métodos
+
+Dica: informações sobre os métodos default do ruby está em
+http://ruby-doc.org/

@@ -1,0 +1,2 @@
+Conteúdos da aula 17
+Arquivo Aula017.rb - #Conteúdo = Classes, Contrutores, Get e Set
